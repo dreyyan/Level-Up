@@ -1,9 +1,7 @@
 # Pre-requisite: HTML & CSS
 Please complete all the specified problems.
 
-> **NOTE**: Please provide a separate HTML and/or CSS file for each problem unless stated otherwise.
-
-> **NOTE**: Create your submission files on the separate folders provided.
+> **NOTE**: Please provide a separate HTML and/or CSS file for each problem unless stated otherwise. Create your submission files on the separate folders provided.
 
 By completing all the problems, you will have a solid understanding of the basics of HTML & CSS.
 
