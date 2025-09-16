@@ -1,0 +1,59 @@
+:root {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff7f7;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    height: 100%;
+
+    background-color: #4add85;
+}
+
+#cardDiv {
+    display: flex;
+}
+
+#card {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+    width: 200px;
+    height: 220px;
+
+    margin: 4%;
+
+    border-top: 5px solid #19191b;
+    border-right: 4px solid #19191b;
+    border-radius: 10px;
+
+    color: #19191b;
+    background-color: #fff7f7;
+
+    h2 {
+        width: 100%;
+
+        font-size: 60px;
+        text-align: center;
+    }
+}
+
+/* For mobile screens */
+@media only screen and (max-width: 600px) {
+    #cardDiv {
+        flex-direction: column; /* Stack cards vertically on mobile */
+        align-items: center;
+    }
+
+    #card {
+        width: 150px;
+        height: 180px;
+        margin: 2%;
+    }
+
+    #card h2 {
+        font-size: 40px;
+    }
+}
