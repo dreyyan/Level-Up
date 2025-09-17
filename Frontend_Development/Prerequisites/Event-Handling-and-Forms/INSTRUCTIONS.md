@@ -8,7 +8,7 @@ By completing all the problems, you will have a solid understanding of JavaScrip
 Create an HTML file with a button and a counter display (e.g., a `<span>`). In a separate JavaScript file:
 - Select the button and counter display using `querySelector`.
 - Initialize a counter variable to 0.
-- Add a click event listener to the button that increments the counter and updates the display.
+- Add 2 click event listeners to 2 buttons (increment and decrement) that increments and decrements the counter and updates the display.
 - Ensure the JavaScript runs after the DOM is fully loaded using `DOMContentLoaded`.  
 
 [View Problem #1: Sample Solution](sample-outputs/problem-1/index.html)
@@ -19,7 +19,7 @@ Create an HTML file with a form containing a text input for a username and a sub
 - Select the form, input, and button using `querySelector`.
 - Add a submit event listener to the form that prevents default submission.
 - Validate that the username is at least 3 characters long; display an error message in a `<div>` if invalid, or log the username to the console if valid.
-- Include CSS to style the error message (e.g., red text).  
+- You can include CSS to style the error message (e.g., red text).  
 
 [View Problem #2: Sample Solution](sample-outputs/problem-2/index.html)
 
@@ -29,7 +29,7 @@ Create an HTML file with a form containing a button to add new text inputs dynam
 - Select the form and button using `querySelector`.
 - Add a click event listener to the button to create and append a new text input to the form.
 - Add a submit event listener to the form that prevents default submission and logs all input values as an array to the console.
-- Include CSS to style the form and inputs.  
+- You can include CSS to style the form and inputs.  
 
 [View Problem #3: Sample Solution](sample-outputs/problem-3/index.html)
 
