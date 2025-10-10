@@ -37,5 +37,3 @@ Create an interactive quiz application that combines forms, DOM updates, and eve
 #### Extension Features:
 - Implement a timer for each question (e.g., 30 seconds per question, auto-submit when time runs out).
 - Use `localStorage` to save and display the user’s high score across sessions.
-
-[View Sample Solution](sample-quiz-app/index.html)

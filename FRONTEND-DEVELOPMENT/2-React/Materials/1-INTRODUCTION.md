@@ -2,7 +2,7 @@
 
 ## What is React and Why Use It?
 <div style="text-align: center;">
-    <img src="./.assets/react-logo.png" alt="React Logo" width="200"/><br>
+    <img src="../.assets/react-logo.png" alt="React Logo" width="200"/><br>
 </div>
 React is a **JavaScript library** for building user interfaces, primarily for single-page applications (SPAs).  
 It allows developers to create **reusable UI components** that manage their own state.  
@@ -17,7 +17,7 @@ React is widely used because it is **fast, efficient, and declarative**, making 
 
 ## Virtual DOM and How React Differs from Plain JavaScript
 <div style="text-align: center;">
-  <img src="./.assets/virtual-dom.png" alt="Virtual DOM vs. Browser DOM" width="320"/>
+  <img src="../.assets/virtual-dom.png" alt="Virtual DOM vs. Browser DOM" width="320"/>
 </div>
 
 - **Plain JavaScript:** Updates the real DOM directly. This can be slow when the UI is large or changes frequently.  
